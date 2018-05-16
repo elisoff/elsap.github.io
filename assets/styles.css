@@ -1,6 +1,7 @@
 .avatar {
   -webkit-border-radius: 30px;
   border-radius: 30px;
+  margin: 8px;
 }
 
 .wrapper {
