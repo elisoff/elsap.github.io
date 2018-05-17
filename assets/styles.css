@@ -17,3 +17,10 @@ body {
 .wrapper {
   margin: 0 auto;
 }
+
+.blog-entries {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  margin: 8px;
+  background-color: #eee;
+}
