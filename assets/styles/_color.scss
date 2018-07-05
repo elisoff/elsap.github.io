@@ -1,0 +1,27 @@
+/* Coolors Exported Palette - coolors.co/f9f5e8-ff803e-ff604c-8e8077-ffe0c6 */
+
+/* RGB */
+$lighten-1: rgba(249, 245, 232, 1);
+$lighten-2: rgba(255, 224, 198, 1);
+$lighten-3: #FFD87D;
+$accent-1: rgba(255, 128, 62, 1);
+$accent-2: rgba(255, 96, 76, 1);
+$accent-3: rgb(255, 117, 64);
+$plain: rgba(142, 128, 119, 1);
+$plain-darken: rgb(30, 26, 25);
+
+.tomato--lighten-1 {
+    color: $lighten-1;
+}
+.tomato--lighten-2 {
+    color: $lighten-2;
+}
+.tomato--plain {
+    color: $plain;
+}
+.tomato--accent-1 {
+    color: $accent-1;
+}
+.tomato--accent-2 {
+    color: $accent-2;
+}
